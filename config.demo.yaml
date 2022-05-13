@@ -1,0 +1,12 @@
+# 机器人识别码，在腾讯的机器人平台创建成功后从后台获取
+token:
+  appid: ""
+  token: ""
+
+# 以下内容要在将机器人加入频道后靠 info.py获取
+guild:
+  guild_id: ""
+
+schedule_ch:
+  pot: ""
+  stream: ""
